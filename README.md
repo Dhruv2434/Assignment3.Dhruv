@@ -1,3 +1,4 @@
+edited by: Shauna
 - Script Enhancements:  
   - Added code for downloading sequence data for both COI and HLA genes at the end of the script, enabling reproducibility and seamless integration into future scripts.  
   - Improved data quality through the addition of filtering checks.  
